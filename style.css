@@ -1,3 +1,21 @@
+<<<<<<< HEAD
 P{
     color:blue;
 }
+=======
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+}
+>>>>>>> 40330a171e845bbc0e20a399d347aa689a346c4d
